@@ -1,0 +1,48 @@
+::::Resume Design:::
+pic
+Home (BackGround Image With Moving Name)
+About me (Personsal info , Resume To Download, Services , Testimonals , Aims ,Future Goals, Professional and Ethical Skills)
+Resume (Experience, Education, Skills, Experience Videos/Pics of past projects,Achievements Videos)
+Portfolio (Projects to Show) Videos + Links to Github
+
+contact
+client Portal
+login/signup
+
+
+Confusion is part of programming. ― Felienne Hermans
+If we want users to like our software, we should design it to behave like a likable person.  – Alan Cooper
+Experience is the name everyone gives to their mistakes. – Oscar Wilde
+Programming is learned by writing programs. ― Brian Kernighan
+There is always one more bug to fix.  – Ellen Ullman
+
+If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
+
+
+
+I focus on pursuing my passion for digital innovation. Understanding the customer's pain points to consolidate, manage and harvest with the most satisfactory results is what brings the project to success.
+
+Social Media Accounts
+LinkedIn
+Facebook
+Twitter
+Upwork
+Fiver
+Instagram
+
+
+
+
+
+
+Technical Work::::
+npx create-react-app .
+npm i react-router-dom
+npm install react-loader-spinner --save
+
+
+
+
+
+Family and Friends with Web Dev::
+Ask them to signup and sign in and give comments...
