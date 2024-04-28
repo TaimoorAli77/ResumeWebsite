@@ -1,0 +1,68 @@
+/* image & Name */
+.sideNav {
+
+    height: 100vh;
+    width: 15rem;
+    /* background-color: #662b2b; */
+}
+
+.resPic {
+    width: 100%;
+    height: 37%;
+    background-color: rgb(121, 179, 229);
+}
+
+.Name {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-shadow: 1px 3px 5px rgb(20, 14, 14);
+}
+
+/* Nav */
+.detailRes {
+    width: 100%;
+    height: 75%;
+    background-color: skyblue;
+}
+
+.NavLink {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    width: 40%;
+    height: 45.8px;
+    cursor: pointer;
+    align-items: center;
+    /* padding-left: 11px; */
+
+}
+
+.NavIcon {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    font-size: larger;
+    justify-content: flex-start;
+    width: 55px;
+    /* height: 45%; */
+    cursor: pointer;
+    align-items: center;
+    /* padding-left: 11px; */
+}
+
+.NavBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100%;
+    height: 46.8px;
+    border-bottom: 1px solid rgb(37, 37, 37);
+    transition: 0.3s;
+    /* background-color: #17181b; */
+}
+
+.side-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

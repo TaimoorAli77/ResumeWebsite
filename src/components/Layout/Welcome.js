@@ -16,7 +16,7 @@ const Welcome = () => {
                 <div className='bgColor'>
                     <div className='flexContainer'>
                         <h1 className='text-center text-primary'>Taimoor Ali</h1>
-                        {/* <h2 className='text-center'>Welcome's you to his Resume Website</h2> */}
+                        {/* <h2 className='text-center'>Welcome's you to his Website Hire Him or He Will Hire You</h2> */}
                         <div
                             className='text-center'>
 

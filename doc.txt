@@ -9,6 +9,23 @@ contact
 client Portal
 login/signup
 
+Email option 
+
+Client Types 1. Normal Client 2. VIP Client 100$(Recommended)Preference 3. Client is in Urgent 50$ On Demand Urgent Delivery
+
+Bell icon for advertising or offers at top right with street lights 
+
+Chat option in footer fixed right side
+
+On the left side future targets 1. React with topics 
+2.node 3. Others 
+
+Challenges ...
+Coming soon ... Leetcode competition etc 
+Redux ... Colors to change for background or texts
+Discussion panel for clients and devs
+
+...***<<Legacy Passes By... Lets See Who Wins This Platform>>...***
 
 Confusion is part of programming. ― Felienne Hermans
 If we want users to like our software, we should design it to behave like a likable person.  – Alan Cooper
@@ -39,6 +56,7 @@ Technical Work::::
 npx create-react-app .
 npm i react-router-dom
 npm install react-loader-spinner --save
+npm install react-icons --save
 
 
 

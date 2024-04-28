@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Welcome from './Welcome';
+import Home from '../Home/Home';
 const Layout = () => {
   const [showCv, setShowCv] = useState(false);
   useEffect(() => {
@@ -12,7 +13,8 @@ const Layout = () => {
     <>
       <Welcome />
       {showCv && <>
-      Welcome Boys
+        <Home />
+
       </>}
 
 

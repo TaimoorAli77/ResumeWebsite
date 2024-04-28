@@ -5,7 +5,7 @@ body {
 }
 
 .bgColor {
-    background-color: rgb(30, 30, 45);
+    background-color: #1e1e2d;
     width: 100vw;
     height: 100vh;
     display: flex;
