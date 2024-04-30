@@ -1,0 +1,49 @@
+{
+    "Links": [
+        {
+            "name": "HOME",
+            "to": "/",
+            "icon": "SiHomeadvisor"
+        },
+        {
+            "name": "ABOUT ME",
+            "to": "/about",
+            "icon": "IoPersonSharp"
+        },
+        {
+            "name": "Resume",
+            "to": "/resume",
+            "icon": "PiToolboxFill"
+        },
+        {
+            "name": "Portfolio",
+            "to": "/portfolio",
+            "icon": "FaBookReader"
+        },
+        {
+            "name": "Contact",
+            "to": "/contact",
+            "icon": "BiSolidMessageRoundedDetail"
+        },
+        {
+            "name": "Videos",
+            "to": "/videos",
+            "icon": "MdVideoSettings"
+        },
+        {
+            "name": "Images",
+            "to": "/images",
+            "icon": "MdOutlineImageSearch"
+        },
+        {
+            "name": "Client Portal",
+            "to": "/client",
+            "icon": "FaClockRotateLeft"
+        },
+        {
+            "name": "Login/Signup",
+            "to": "/registration",
+            "icon": "BiSolidLockOpen"
+        }
+    ]
+}

@@ -19,7 +19,6 @@ const Welcome = () => {
                         {/* <h2 className='text-center'>Welcome's you to his Website Hire Him or He Will Hire You</h2> */}
                         <div
                             className='text-center'>
-
                             <Vortex
                                 visible={true}
                                 height="80"

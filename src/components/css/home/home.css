@@ -1,40 +1,84 @@
 /* image & Name */
 .sideNav {
-
     height: 100vh;
-    width: 15rem;
-    /* background-color: #662b2b; */
+    width: 10.7vw;
+    border-right: 1px solid #1187eb;
+  float: left;
 }
 
 .resPic {
     width: 100%;
-    height: 37%;
-    background-color: rgb(121, 179, 229);
+    height: 30%;
+    /* position: absolute;
+    top: 0%;
+    left: 0%; */
+    /* background-color: rgb(121, 179, 229); */
+}
+
+.detailRes {
+    width: 100%;
+    height: 70%;
+    /* background-color: #1e1e2d; */
+}
+
+.imgDimensions {
+    height: 80%;
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    height: 5%;
+}
+
+.footer+p {
+    text-transform: capitalize;
+    text-wrap: wrap;
+    text-align: center;
+    padding-top: 2em;
+    font-size: 11px;
+    display: block;
+    color: rgb(37, 37, 37);
 }
 
 .Name {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-shadow: 1px 3px 5px rgb(20, 14, 14);
+    font-family: monospace;
+    text-shadow: 0px 4px 2px #3bbc34;
+    background-color: #1187eb;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: wavy;
+    text-indent: 0%;
+    font-family: 'Times New Roman', Times, serif;
+
+    /* margin-bottom: 2em; */
 }
 
 /* Nav */
-.detailRes {
-    width: 100%;
-    height: 75%;
-    background-color: skyblue;
-}
+
 
 .NavLink {
     text-decoration: none;
     text-align: center;
     display: flex;
     justify-content: flex-start;
-    width: 40%;
+    width: 51%;
     height: 45.8px;
     cursor: pointer;
     align-items: center;
+    text-transform: uppercase !important;
+    font-size: 0.9em;
+    color: #1187eb;
+
     /* padding-left: 11px; */
 
+}
+
+.NavLink:hover {
+    filter: brightness(150%)
 }
 
 .NavIcon {
@@ -43,11 +87,12 @@
     display: flex;
     font-size: larger;
     justify-content: flex-start;
-    width: 55px;
+    width: 35px;
+    color: #1187eb;
     /* height: 45%; */
     cursor: pointer;
     align-items: center;
-    /* padding-left: 11px; */
+    padding-right: 11px;
 }
 
 .NavBtn {
@@ -56,7 +101,7 @@
     justify-content: center;
     min-width: 100%;
     height: 46.8px;
-    border-bottom: 1px solid rgb(37, 37, 37);
+    border-bottom: 0.1px solid rgb(164, 174, 179);
     transition: 0.3s;
     /* background-color: #17181b; */
 }
@@ -65,4 +110,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* client */
+
+.client {
+    background-color: burlywood !important;
 }
